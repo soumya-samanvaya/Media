@@ -13,6 +13,22 @@
       "id": 4
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Steel Hat",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Wooden Car",
+      "id": 12
+    }
+  ],
   "photos": []
 }
